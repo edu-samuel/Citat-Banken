@@ -1,2 +1,4 @@
-"hej" - då
+"hej" - d[
 "Hej! Hur mår du?" - Samme
+"& C:/Users/08baesam/AppData/Local/Microsoft/WindowsApps/python3.13.exe c:/Users/08baesam/Documents/GitHub/Citat-Banken/citatbank.py" - 2
+"Programmering är bäst " - Samme
